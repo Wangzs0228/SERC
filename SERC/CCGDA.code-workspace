@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "CCGDA",
+			"path": "../CCGDA"
+		},
+		{
+			"name": "CLDA-2022",
+			"path": "../CLDA-2022"
+		},
+		{
+			"name": "DeepHyperX",
+			"path": "."
+		},
+		{
+			"name": "HSI_domain_adaptation",
+			"path": "../HSI_domain_adaptation"
+		},
+		{
+			"name": "IEEE_TNNLS_TSTnet-main",
+			"path": "../IEEE_TNNLS_TSTnet-main"
+		},
+		{
+			"name": "SSWADA",
+			"path": "../../SSWADA"
+		},
+		{
+			"name": "TGRS",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
