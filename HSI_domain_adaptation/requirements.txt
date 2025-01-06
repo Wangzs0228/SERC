@@ -1,0 +1,11 @@
+matplotlib
+numpy
+Pillow
+scikit_learn
+scipy
+tensorboardX
+tllib==0.4
+torch
+torchvision
+tqdm
+yacs
